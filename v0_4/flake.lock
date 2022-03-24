@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-nimble-v0_4": "src-nimble-v0_4"
+        "src-babel-v0_4": "src-babel-v0_4"
       }
     },
-    "src-nimble-v0_4": {
+    "src-babel-v0_4": {
       "flake": false,
       "locked": {
         "lastModified": 1403566361,
