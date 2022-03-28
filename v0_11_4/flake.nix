@@ -11,7 +11,6 @@
   inputs.src-nimble-v0_11_4.ref   = "refs/tags/v0.11.4";
   inputs.src-nimble-v0_11_4.owner = "nim-lang";
   inputs.src-nimble-v0_11_4.repo  = "nimble";
-  inputs.src-nimble-v0_11_4.dir   = "";
   inputs.src-nimble-v0_11_4.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

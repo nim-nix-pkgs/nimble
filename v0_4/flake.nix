@@ -11,7 +11,6 @@
   inputs.src-babel-v0_4.ref   = "refs/tags/v0.4";
   inputs.src-babel-v0_4.owner = "nim-lang";
   inputs.src-babel-v0_4.repo  = "nimble";
-  inputs.src-babel-v0_4.dir   = "";
   inputs.src-babel-v0_4.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

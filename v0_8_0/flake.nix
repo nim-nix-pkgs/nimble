@@ -11,7 +11,6 @@
   inputs.src-nimble-v0_8_0.ref   = "refs/tags/v0.8.0";
   inputs.src-nimble-v0_8_0.owner = "nim-lang";
   inputs.src-nimble-v0_8_0.repo  = "nimble";
-  inputs.src-nimble-v0_8_0.dir   = "";
   inputs.src-nimble-v0_8_0.type  = "github";
   
   inputs."compiler".owner = "nim-nix-pkgs";
