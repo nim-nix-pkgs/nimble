@@ -42,11 +42,11 @@
     "src-nimble-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1644330902,
-        "narHash": "sha256-RXNDI7gR/NVnI1RznHPWnux7D5k6IzfXU1cS3Qdkv2I=",
+        "lastModified": 1648356678,
+        "narHash": "sha256-cM8h+kybKalpcCW3fPiWARD5SGgOogFROvKl3tBK5lc=",
         "owner": "nim-lang",
         "repo": "nimble",
-        "rev": "6a2cf71a1754f5f39995e8311b831a32e0676435",
+        "rev": "d68b2cb6efe8ce298cb5021fe84d3814d755322f",
         "type": "github"
       },
       "original": {
