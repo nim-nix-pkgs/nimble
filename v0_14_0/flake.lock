@@ -204,22 +204,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs_2",
-        "src-nimble-master": "src-nimble-master"
+        "src-nimble-v0_14_0": "src-nimble-v0_14_0"
       }
     },
-    "src-nimble-master": {
+    "src-nimble-v0_14_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1668753735,
-        "narHash": "sha256-JKIE4Gyjg7KoM59JeEPi0EyNLF41hd/aGNabbyS6UVE=",
+        "lastModified": 1638532111,
+        "narHash": "sha256-oRh/8+XobERa+ii0LVaimMiWOPPo1UsqVrsvOMDAiuQ=",
         "owner": "nim-lang",
         "repo": "nimble",
-        "rev": "85c9df5856c886d3b8b07f3c2d0005602a5e38ae",
+        "rev": "0777f33d1ddbd505b3aa7b714032125349323ceb",
         "type": "github"
       },
       "original": {
         "owner": "nim-lang",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.14.0",
         "repo": "nimble",
         "type": "github"
       }
